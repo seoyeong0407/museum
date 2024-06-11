@@ -34,7 +34,7 @@ html{
 nav{
   display: flex;
   justify-content: space-evenly;
-  align-items: top;
+  align-items: initial;
   margin-top: 20px;
 }
 .gnb{
